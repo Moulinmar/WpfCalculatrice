@@ -1,0 +1,14 @@
+D:\moulinmar\projets\WpfCalculatrice\WpfCalculatrice\bin\Debug\WpfCalculatrice.exe.config
+D:\moulinmar\projets\WpfCalculatrice\WpfCalculatrice\bin\Debug\WpfCalculatrice.exe
+D:\moulinmar\projets\WpfCalculatrice\WpfCalculatrice\bin\Debug\WpfCalculatrice.pdb
+D:\moulinmar\projets\WpfCalculatrice\WpfCalculatrice\obj\Debug\WpfCalculatrice.csprojResolveAssemblyReference.cache
+D:\moulinmar\projets\WpfCalculatrice\WpfCalculatrice\obj\Debug\MainWindow.g.cs
+D:\moulinmar\projets\WpfCalculatrice\WpfCalculatrice\obj\Debug\App.g.cs
+D:\moulinmar\projets\WpfCalculatrice\WpfCalculatrice\obj\Debug\WpfCalculatrice_MarkupCompile.cache
+D:\moulinmar\projets\WpfCalculatrice\WpfCalculatrice\obj\Debug\WpfCalculatrice_MarkupCompile.lref
+D:\moulinmar\projets\WpfCalculatrice\WpfCalculatrice\obj\Debug\MainWindow.baml
+D:\moulinmar\projets\WpfCalculatrice\WpfCalculatrice\obj\Debug\WpfCalculatrice.g.resources
+D:\moulinmar\projets\WpfCalculatrice\WpfCalculatrice\obj\Debug\WpfCalculatrice.Properties.Resources.resources
+D:\moulinmar\projets\WpfCalculatrice\WpfCalculatrice\obj\Debug\WpfCalculatrice.csproj.GenerateResource.Cache
+D:\moulinmar\projets\WpfCalculatrice\WpfCalculatrice\obj\Debug\WpfCalculatrice.exe
+D:\moulinmar\projets\WpfCalculatrice\WpfCalculatrice\obj\Debug\WpfCalculatrice.pdb
