@@ -39,10 +39,22 @@ namespace WpfCalculatrice
 
         private void btnAdd_Click(object sender, RoutedEventArgs e)
         {
-            addition.setVal1(22);
-            addition.setVal2(33);
-            lblReponse.Content = addition.Additionne();
-            MessageBox.Show(addition.Affiche());
+            double dblNumber1;
+            double dblNumber2;
+            if(double.TryParse(tbxNombre1.Text, out dblNumber1))
+            {
+                if (double.TryParse(tbxNombre2.Text, out dblNumber2))
+                {
+                    addition.setVal1(dblNumber1);
+                    addition.setVal2(dblNumber2);
+                    lblReponse.Content = addition.Additionne();
+
+                }
+            }
+            else
+            {
+                MessageBox.Show("Erreur de siasie");
+            }
         }
     }
 }
